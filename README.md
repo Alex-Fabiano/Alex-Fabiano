@@ -1,5 +1,4 @@
-<h1>Hello Word !,I am Alex Fabiano,
-I'm just a student who loves what he does. </h1>
+<h1> </h1>
 
 
 <picture >
